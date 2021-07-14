@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: JetFormBuilder - user posts
+ * Plugin Name: JetEngine forms - user posts
  * Plugin URI:
  * Description: Allow to get only posts by current user as options for select, checkbox or radio fields in the JetFormBuilder & JetEngine forms.
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Crocoblock
  * Author URI:  https://crocoblock.com/
  * Text Domain: jet-forms-user-posts-select
